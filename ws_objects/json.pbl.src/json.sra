@@ -12,7 +12,7 @@ end forward
 
 global type json from application
 string appname = "json"
-string appruntimeversion = "22.0.0.1900"
+string appruntimeversion = "22.1.0.2828"
 end type
 global json json
 
